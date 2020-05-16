@@ -100,7 +100,7 @@ Sample log4j2.xml (write to a file appender "error.log")
 Note: log4.. config files are specific to the language, see links below for your logging configuration
 
 * [Log4j2 appenders from Myyong](https://mkyong.com/logging/log4j2-xml-example/)
-* [Log4net appenders from Apache(https://logging.apache.org/log4net/release/config-examples.html)
+* [Log4net appenders from Apache](https://logging.apache.org/log4net/release/config-examples.html)
 * [Log4php appenders from Apache](https://logging.apache.org/log4php/docs/configuration.html)
 
 [Back to Main](README.md)
