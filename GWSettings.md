@@ -1,6 +1,8 @@
 # GeekWisdom Tool Documentation
 
-## What are the Tools?
+## GWSettings: GeekWisdom Settings Coomponent
+
+### Overview
 
 GeekWisdom is a set of programming tools 'components' designed to make 
 programming easier regardless of what langugage you choose to use
@@ -13,10 +15,7 @@ solution building blocks (SBB).
 This got me thinking about a standard set of building blocks or 'components' 
 that could be implemenented in any language using a common interface, and the gwTools were born
 
-## Architecture
+### Main Methods/Functions
 
-[GWSettings][GWSettings.md]
-
-
-![gw Diagram ](https://github.com/geekwisdom/gwDocs/raw/master/assets/gwArchitecture.png "Logo Title Text 1")
+### Usage
 
