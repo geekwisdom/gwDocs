@@ -15,7 +15,10 @@ that could be implemenented in any language using a common interface, and the gw
 
 ## Architecture
 
-[GWSettings](GWSettings.md)
+[GWSettings](GWSettings.md) | [Logger](GWSettings.md) | [GWDBConnection](GWSettings.md)
+[GWDataTable](GWSettings.md) | [GWQL](GWSettings.md) | [GWDataIO](GWSettings.md)
+ | [GWEWebServivce](GWSettings.md) |
+
 
 
 ![gw Diagram ](https://github.com/geekwisdom/gwDocs/raw/master/assets/gwArchitecture.png "Logo Title Text 1")
