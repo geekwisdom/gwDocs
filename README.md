@@ -15,11 +15,26 @@ that could be implemenented in any language using a common interface, and the gw
 
 ## Architecture
 
-[GWSettings](GWSettings.md) | [Logger](GWSettings.md) | [GWDBConnection](GWSettings.md)
-[GWDataTable](GWSettings.md) | [GWQL](GWSettings.md) | [GWDataIO](GWSettings.md)
- | [GWEWebServivce](GWSettings.md) |
-
+[GWSettings](GWSettings.md) | [GWLogger](GWLogger.md) | [GWDBConnection](GWDBConnection.md)
+[GWDataTable](GWDataTable.md) | [GWQL](GWQL.md) | [GWDataIO](GWDataIO.md) |
+[GWEWebServivce](GWEZWebService.md)
 
 
 ![gw Diagram ](https://github.com/geekwisdom/gwDocs/raw/master/assets/gwArchitecture.png "Logo Title Text 1")
 
+## Features
+
+* All GeekWisdom components fall under the org.geekwisdom namespace
+* The components are designed to simplify common programming tasks with a consistant interface across programming languages
+* The components can be implemented in any OO language
+* Currently you can use the in JAVA, .NET/MONO, and PHP
+* Allows you to easily port code from one language to another as well as make
+'on-the-fly' changes to underlying infrastructure (eg: databases) via configuration files vs code
+
+
+## Learn more...
+
+
+[GWSettings](GWSettings.md) | [GWLogger](GWLogger.md) | [GWDBConnection](GWDBConnection.md)
+[GWDataTable](GWDataTable.md) | [GWQL](GWQL.md) | [GWDataIO](GWDataIO.md) |
+[GWEWebServivce](GWEZWebService.md)
